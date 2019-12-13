@@ -1,0 +1,7 @@
+C:\Users\walte\source\repos\SimpleDelegate-001\SimpleDelegate-001\bin\Debug\SimpleDelegate-001.exe.config
+C:\Users\walte\source\repos\SimpleDelegate-001\SimpleDelegate-001\bin\Debug\SimpleDelegate-001.exe
+C:\Users\walte\source\repos\SimpleDelegate-001\SimpleDelegate-001\bin\Debug\SimpleDelegate-001.pdb
+C:\Users\walte\source\repos\SimpleDelegate-001\SimpleDelegate-001\obj\Debug\SimpleDelegate-001.csprojAssemblyReference.cache
+C:\Users\walte\source\repos\SimpleDelegate-001\SimpleDelegate-001\obj\Debug\SimpleDelegate-001.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\repos\SimpleDelegate-001\SimpleDelegate-001\obj\Debug\SimpleDelegate-001.exe
+C:\Users\walte\source\repos\SimpleDelegate-001\SimpleDelegate-001\obj\Debug\SimpleDelegate-001.pdb
